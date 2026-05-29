@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartralculate",
+        "uuid": 214734,
+        "checksum": "s4uf5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
